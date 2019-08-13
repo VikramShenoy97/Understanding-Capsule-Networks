@@ -91,7 +91,18 @@ Fig. 6 Ground Truth Image        |  Fig 7. Reconstructed Image
 
 ## Understanding Dimensions of the Capsule Vector
 
-Each capsule in the Digit Capsule Layer is a 16-Dimensional Vector. By holding 15 dimensions constant and slightly varying one dimension, we can understand the property captured by that dimension.
+Each capsule in the Digit Capsule Layer is a 16-Dimensional Vector. By holding 15 dimensions constant and slightly varying one dimension, we can understand the property captured by that dimension as shown below:
+
+
+Fig. 8 Ground Truth Image        |  Fig 9. Reconstructed Image
+:-------------------------:|:-------------------------:
+![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Output_Images/Ground_Truth_Images.png)  |  ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Output_Images/Reconstructed_Images.png)
+
+
+Fig. 10 Ground Truth Image        |  Fig 11. Reconstructed Image
+:-------------------------:|:-------------------------:
+![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Output_Images/Ground_Truth_Images.png)  |  ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Output_Images/Reconstructed_Images.png)
+
 
 ## Built With
 
