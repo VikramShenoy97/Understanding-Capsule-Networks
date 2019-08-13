@@ -103,7 +103,7 @@ Fig. 8 Dimension 4 (Localised Skew)        |  Fig 9. Dimension 5 (Curvature)
 
 Fig. 10 Dimension 7 (Stroke & Thickness)   |  Fig 11. Dimension 9 (Edge Translation)
 :-------------------------:|:-------------------------:
-![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Output_Images/Pose_Reconstructions_for_dimension_7.png)  |  ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Output_Images/Pose_Reconstructions_for_dimension_9.png)
+![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Dimensional_Reconstructions/Pose_Reconstructions_for_dimension_7.png)  |  ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Dimensional_Reconstructions/Pose_Reconstructions_for_dimension_9.png)
 
 
 ## Built With
