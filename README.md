@@ -91,7 +91,7 @@ Fig. 6 Ground Truth Image        |  Fig 7. Reconstructed Image
 
 ## Understanding Dimensions of the Capsule Vector
 
-
+Each capsule in the Digit Capsule Layer is a 16-Dimensional Vector. By holding 15 dimensions constant and slightly varying one dimension, we can understand the property captured by that dimension.
 
 ## Built With
 
