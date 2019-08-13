@@ -51,6 +51,8 @@ The reconstructions for every 10th epoch are stored in the **Training** folder.
 
 ![training_epochs](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Media/epochs.gif)
 
+*Fig 3. Reconstructions for every 10th epoch.*
+
 After 100 Epochs:
 ```
 Final Training Accuracy = 99.91%
@@ -59,6 +61,8 @@ Final Training Loss = 0.4595620
 
 ### Training Performance Graph
 ![training_graph](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Graphs/Training_Graph.png)
+
+*Fig 4. Training Loss and Training Accuracy Graph*
 
 ## Testing
 
@@ -77,8 +81,13 @@ Test Set Accuracy = 98.80%
 
 ![accuracy_graph](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Graphs/Accuracy_Graph.png)
 
+*Fig 5. Training Accuracy vs Testing Accuracy Graph*
+
 ## Results
 
+Fig. 6 Ground Truth Image        |  Fig 7. Reconstructed Image
+:-------------------------:|:-------------------------:
+![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Output_Images/Ground_Truth_Images.png)  |  ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Output_Images/Reconstructed_Images.png)
 
 ## Understanding Dimensions of the Capsule Vector
 
