@@ -94,8 +94,6 @@ Fig. 6 Ground Truth Image        |  Fig 7. Reconstructed Image
 Each capsule in the Digit Capsule Layer is a 16-Dimensional Vector. By holding 15 dimensions constant and slightly varying one dimension, we can understand the property captured by that dimension as shown below:
 
 
-There is my interpretation of what some of these dimensions capture.
-
 Fig. 8 Dimension 4 (Localised Skew)        |  Fig 9. Dimension 5 (Curvature)
 :-------------------------:|:-------------------------:
 ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Dimensional_Reconstructions/Pose_Reconstructions_for_dimension_4.png)  |  ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Dimensional_Reconstructions/Pose_Reconstructions_for_dimension_5.png)
@@ -105,6 +103,8 @@ Fig. 10 Dimension 7 (Stroke & Thickness)   |  Fig 11. Dimension 9 (Edge Translat
 :-------------------------:|:-------------------------:
 ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Dimensional_Reconstructions/Pose_Reconstructions_for_dimension_7.png)  |  ![](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Dimensional_Reconstructions/Pose_Reconstructions_for_dimension_9.png)
 
+
+There is my interpretation of what some of these dimensions capture. In this way, Capsule Networks capture the important spatial hierarchies between simple features and complex features.
 
 ## Built With
 
