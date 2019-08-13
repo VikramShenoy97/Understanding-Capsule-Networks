@@ -47,6 +47,10 @@ Python capsulenetwork.py
 Each epoch takes about 87 seconds on average when using Google Colab's GPU.
 
 
+The reconstructions for every 10th epoch are stored in the **Training** folder.
+
+![training_epochs](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Media/epochs.gif)
+
 After 100 Epochs:
 ```
 Final Training Accuracy = 99.91%
