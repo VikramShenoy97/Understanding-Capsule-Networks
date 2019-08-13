@@ -6,6 +6,16 @@ Constructed and trained a capsule network to predict digits from the MNIST datas
 
 A Capsule Network is basically a neural network that tries to perform inverse graphics(Process of converting a visual image to some internal hierarchical representation of geometric data). It understands relative relationships between objects. Capsule Networks use vectors called capsules that incorporate all the important information about the state of the feature they are detecting. A capsule is any function that tries to predict the presence and instantiation parameters of a particular object at any given location. The architecture consists of an encoder network and a decoder network. The forward pass of the combined network is computed using the dynamic routing algorithm.
 
+![Capsule_Network_Encoder](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Media/Encoder_Capsnet.png)
+
+*Fig 1. The CapsNet Architecture (Encoder) from the original paper by S Sabour et al., 2017.*
+
+
+![Capsule_Network_Decoder](https://github.com/VikramShenoy97/Understanding-Capsule-Networks/blob/master/Media/Decoder_Capsnet.png)
+
+*Fig 2. The CapsNet Architecture (Decoder) from the original paper by S Sabour et al., 2017.*
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
